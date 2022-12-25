@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StoicScripter
 - 👀 I’m interested in Coding I guess
-- 🌱 I’m currently learning Android development, some Lua, some Java, some C#
-- 💞️ I’m looking to collaborate on android projects
+- 🌱 I’m currently learning Android development, some Lua, some Kotlin + Jetpack Compose and some Python
+- - 💞️ I’m looking to collaborate on android projects
 - 📫 How to reach me, no.
 
 <!---
