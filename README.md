@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding I guess
 - 🌱 I’m currently learning Android development, some Lua, some Kotlin + Jetpack Compose and some Python
 - - 💞️ I’m looking to collaborate on android projects
-- 📫 How to reach me, no.
+- 📫 How to reach me, [my linktree](https://linktr.ee/StoicScripter).
 
 <!---
 StoicScripter/StoicScripter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
