@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @StoicScripter
-- 👀 I’m interested in Coding I guess
-- 🌱 I’m currently learning Android development, some Lua, some Kotlin + Jetpack Compose and some Python
-- - 💞️ I’m looking to collaborate on android projects
-- 📫 How to reach me, [my linktree](https://linktr.ee/StoicScripter).
+Currently working on bringing www.polluxdev.com to live
 
 <!---
 StoicScripter/StoicScripter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
