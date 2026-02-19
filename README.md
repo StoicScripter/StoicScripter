@@ -1,4 +1,4 @@
-Currently working on bringing www.polluxdev.com to live
+Currently working on bringing www.polluxdev.com to life
 
 <!---
 StoicScripter/StoicScripter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
